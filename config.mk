@@ -65,7 +65,3 @@ PRODUCT_PACKAGES += \
     GradientSunset \
     GradientVanusa \
     GradientJuicyCake
-
-# Themes
-PRODUCT_PACKAGES += \
-    KangOSCustomisation
